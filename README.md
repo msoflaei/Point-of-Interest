@@ -3,6 +3,9 @@ The aim of this project is to clean the data, assign labels to each request base
 
 # Dependencies
 Os 
+
 Math
+
 Pandas
+
 Matplotlib
